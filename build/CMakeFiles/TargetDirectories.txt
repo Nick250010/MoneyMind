@@ -1,0 +1,3 @@
+C:/Users/sheme/Documents/projectVsC/MoneyMind/build/CMakeFiles/MoneyMind.dir
+C:/Users/sheme/Documents/projectVsC/MoneyMind/build/CMakeFiles/edit_cache.dir
+C:/Users/sheme/Documents/projectVsC/MoneyMind/build/CMakeFiles/rebuild_cache.dir
